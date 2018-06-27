@@ -1,6 +1,6 @@
 {
-    "name": "linkorb/boost",
-    "description": "PHP Utils for ninjas, warlocks and code-monkeys",
+    "name": "linkorb/ace-editor-mode-php",
+    "description": "Ace editor mode get by file extension",
     "keywords": ["php", "accessors", "ninja", "warlock", "code-monkey", "magic", "linkorb"],
     "license": "MIT",
     "type": "library",
@@ -14,7 +14,7 @@
     ],
     "support": {
         "e-mail": "support@linkorb.com",
-        "issues": "https://github.com/linkorb/boost/issues"
+        "issues": "https://github.com/linkorb/ace-editor-mode-php/issues"
     },
     "autoload": {
         "psr-4": {
