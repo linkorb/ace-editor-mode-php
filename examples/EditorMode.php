@@ -2,7 +2,7 @@
 
 require_once __DIR__.'/../vendor/autoload.php';
 
-use Linkorb\Ace\AceEditorMode;
+use LinkORB\Ace\AceEditorMode;
 
 // Path to the file//
 $filePath = 'array.php';

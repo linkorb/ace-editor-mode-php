@@ -1,6 +1,6 @@
 <?php
 
-namespace Linkorb\Ace;
+namespace LinkORB\Ace;
 
 class AceEditorMode
 {
