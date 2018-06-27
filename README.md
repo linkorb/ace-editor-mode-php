@@ -6,7 +6,7 @@
 Example How to use:
 
 ```php
-$fileInfo = pathinfo($filePath);
+$fileInfo = pathinfo($filePath); // Path to the file//
 $aceEditorMode = new \Linkorb\Ace\AceEditorMode();
 $aceMode = $aceEditorMode->getAceMode($fileInfo['extension']);
 echo $aceMode;
